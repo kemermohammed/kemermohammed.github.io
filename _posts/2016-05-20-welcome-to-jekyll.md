@@ -1,22 +1,21 @@
 ---
 layout: post
+toc: true
+title: "Professional Background & Experience"
+categories: resume
+tags: [career, professional, experience]
+author:
+  - Shangzhi Huang
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## 💼 Professional Background
 
-Jekyll also offers powerful support for code snippets:
+I am a Data Science Master’s student with hands-on experience in both research and product management. My professional journey began as a **Product Manager at A2SV (Africa to Silicon Valley)**, where I led the development of **Dime**, a remittance application. I coordinated a team of five engineers, applying Agile methodologies to meet project deadlines while ensuring high-quality product delivery. Key accomplishments include improving test coverage from 40% to 65% and boosting Zemen Bank’s mobile app adoption by 1.8×, while reducing in-branch transactions.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I also gained research experience as a **Research Intern at IMT Nord Europe**, developing methods to extract partial human pose descriptions from plantar pressure data using Large Language Models (LLMs). This project strengthened my skills in data analysis, machine learning, and real-world AI applications, combining software, hardware, and human-centered insights.  
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+**Key Achievements & Skills:**  
+- Led cross-functional teams in Agile sprints  
+- Applied data-driven strategies to product improvements  
+- Experience with sensor-based AI research  
+- Strong analytical thinking and problem-solving skills

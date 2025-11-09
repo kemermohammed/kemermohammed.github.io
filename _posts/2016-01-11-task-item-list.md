@@ -1,23 +1,20 @@
 ---
 layout: post
-title: Task Item List
-tags: [to-do list]
+toc: true
+title: "Hobbies & Lifestyle"
+categories: resume
+tags: [hobbies, lifestyle, personal]
+author:
+  - Shangzhi Huang
 ---
 
-This post tests the style of a task item list.
+## 🎮 Hobbies & Lifestyle
 
-Source:
+Outside academics and work, I enjoy activities that combine mental engagement with relaxation. I play chess and card games, watch Netflix movies and series, and spend quality time engaging with children in playful and educational activities.  
 
-```markdown
-- [x] Eating
-- [ ] Walking
-  - [ ] Running
-- [ ] Sleeping
-```
+Fun facts:  
+- I dislike video games but enjoy interactive and social games  
+- I am a foodie, always eager to try new flavors and dishes  
+- Balancing hobbies with studies and professional work keeps me energized and creative  
 
-Rendered:
-
-- [x] Eating
-- [ ] Walking
-  - [ ] Running
-- [ ] Sleeping
+These pursuits contribute to a balanced lifestyle, cultivating curiosity, critical thinking, and personal growth alongside professional and academic development.

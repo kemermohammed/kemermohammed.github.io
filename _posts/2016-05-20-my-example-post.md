@@ -1,12 +1,15 @@
 ---
 layout: post
+toc: true
+title: "A Day in the Life of a Data Science Student"
+categories: resume
+tags: [daily-life, student, routine]
+author:
+  - Shangzhi Huang
 ---
 
-Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
+## 🕒 Daily Life
 
-{% comment %}
-Might you have an include in your theme? Why not try it here!
-{% include my-themes-great-include.html %}
-{% endcomment %}
+A typical day as a Data Science Master’s student in Lille is a mix of lectures, coding projects, research, and personal exploration. Mornings often start with courses in machine learning, statistics, or databases. Afternoons are dedicated to hands-on projects, data analysis, and collaborative work with classmates. Evenings are reserved for reviewing coursework, preparing assignments, or exploring new research opportunities.  
 
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
+Balancing academics with city exploration, tech meetups, and culinary experiences has taught me discipline, time management, and adaptability. Each day is an opportunity to learn, grow, and connect with both technology and the wider community.
